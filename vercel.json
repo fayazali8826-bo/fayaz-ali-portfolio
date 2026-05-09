@@ -1,6 +1,5 @@
 {
   "rootDirectory": "fayaz-ali-portfolio",
-  "framework": "vite",
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
   "rewrites": [
