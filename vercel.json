@@ -1,7 +1,6 @@
 {
-  "rootDirectory": "fayaz-ali-portfolio",
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "dist",
+  "buildCommand": "cd fayaz-ali-portfolio && npm install && npm run build",
+  "outputDirectory": "fayaz-ali-portfolio/dist",
   "rewrites": [
     {
       "source": "/(.*)",
